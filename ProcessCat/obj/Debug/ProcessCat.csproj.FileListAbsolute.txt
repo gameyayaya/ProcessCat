@@ -1,0 +1,10 @@
+D:\code\c#\ProcessCat\ProcessCat\ProcessCat\bin\Debug\ProcessCat.exe.config
+D:\code\c#\ProcessCat\ProcessCat\ProcessCat\bin\Debug\ProcessCat.exe
+D:\code\c#\ProcessCat\ProcessCat\ProcessCat\bin\Debug\ProcessCat.pdb
+D:\code\c#\ProcessCat\ProcessCat\ProcessCat\obj\Debug\ProcessCat.csprojAssemblyReference.cache
+D:\code\c#\ProcessCat\ProcessCat\ProcessCat\obj\Debug\ProcessCat.Properties.Resources.resources
+D:\code\c#\ProcessCat\ProcessCat\ProcessCat\obj\Debug\ProcessCat.csproj.GenerateResource.cache
+D:\code\c#\ProcessCat\ProcessCat\ProcessCat\obj\Debug\ProcessCat.csproj.CoreCompileInputs.cache
+D:\code\c#\ProcessCat\ProcessCat\ProcessCat\obj\Debug\ProcessCat.exe
+D:\code\c#\ProcessCat\ProcessCat\ProcessCat\obj\Debug\ProcessCat.pdb
+D:\code\c#\ProcessCat\ProcessCat\ProcessCat\obj\Debug\ProcessCat.ProcessCat.resources
